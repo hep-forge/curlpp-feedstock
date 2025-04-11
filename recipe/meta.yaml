@@ -13,8 +13,6 @@ package:
 source:
   git_url: "https://github.com/jpbarrette/curlpp"
   git_rev: {{ versions.get(version, "HEAD") }}
-  patches:
-    - patches/conda.patch
 
 requirements:
   build:
