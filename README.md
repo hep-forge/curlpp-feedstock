@@ -15,8 +15,8 @@ cURLpp is a C++ wrapper for libcURL
 
 | Architecture | Latest published |
 |--------------|------------------|
-| linux-amd64 (`linux-64`) | ✅ `master` |
-| linux-arm64 (`linux-aarch64`) | ❌ not published |
+| linux-amd64 (`linux-64`) | ✅ `0.8.1.1` |
+| linux-arm64 (`linux-aarch64`) | ✅ `0.8.1.1` |
 
 _As of the last feedstock render; the badges above are live._
 
